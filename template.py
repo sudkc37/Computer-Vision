@@ -4,7 +4,7 @@ import logging
 
 logging.basicConfig(level=logging.INFO, format='[%(asctime)s]: %(message)s')
 
-Project_Name = "Image-Reterival-System"
+Project_Name = "Computer-Vision"
 
 list_of_file = [
     ".github/workflows/.gitkeep",
